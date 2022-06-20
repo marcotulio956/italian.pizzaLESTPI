@@ -1,0 +1,26 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #582f25;
+  font-family: -apple-system, BlinkMacSystemFont, Poppins, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+td {
+  text-align: center; 
+  vertical-align: middle;
+}
+
+td:first-child {
+  padding-left: 50px;
+}
+
+* {
+  box-sizing: border-box;
+}
