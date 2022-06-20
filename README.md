@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Presentation
-https://youtu.be/poA0tcQCUT8
+[![ytvideo](https://img.youtube.com/vi/poA0tcQCUT8/maxresdefault.jpg)](https://www.youtube.com/watch?v=poA0tcQCUT8)
 
 ## Getting Started
 
